@@ -4,9 +4,9 @@
 
 ### By
 
-* **Name:** Ansh Attre
+* **Name:** PRIYANSHU SINHA
 * **University:** Indian Institute Of Technology, Mandi
-* **Department:** Data Science and Engineering
+* **Department:** MECHANICAL Engineering
 
 
 ---
